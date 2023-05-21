@@ -48,7 +48,7 @@ public class C03_Xpath {
 
 
         Thread.sleep(3000);
-        driver.close();
+        driver.quit();
 
     }
 }
